@@ -14,7 +14,7 @@
 - Adet arttırılarak ürün adedinin 2 olduğu doğrulanır.
 - Ürün sepetten silinerek sepetin boş olduğu kontrol edilir.
 
-# Structure
+# Yapı
 - log4J
 - JUnit
 - Selenium

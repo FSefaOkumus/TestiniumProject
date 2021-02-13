@@ -1,4 +1,4 @@
-# TestiniumProject
+# gittigidiyor Test Automation
  @username ve @password tanımlanmıştır.
  
 - www.gittigidiyor.com sitesi açılır.
@@ -21,3 +21,4 @@
 - MAVEN Projesi olarak tasarlanmıştır.
 
 # Sefa Okumuş
+Testinium şirketinin isteği üzerine hazırlanmıştır.

@@ -1,0 +1,36 @@
+2021-02-14 02:22:28 INFO  GittigidiyorTest:24 - Test başlatıldı.
+2021-02-14 02:22:37 INFO  GittigidiyorTest:37 - Anasayfaya giriş başarılı
+2021-02-14 02:22:42 INFO  GittigidiyorTest:44 - Login işlemi başarılı
+2021-02-14 02:22:42 INFO  GittigidiyorTest:49 - Arama yerine istenilen kelime girildi
+2021-02-14 02:22:45 INFO  GittigidiyorTest:52 - Arama başarılı
+2021-02-14 02:22:48 INFO  GittigidiyorTest:61 - 2.Sayfanın Açıldığı kontrol edildi.
+2021-02-14 02:22:51 INFO  GittigidiyorTest:78 - Rastgele olarak 39. sıradaki ürün seçildi ve ürün linkine gidildi.
+2021-02-14 02:22:51 INFO  GittigidiyorTest:91 - Ürünün adı : Concord 20 METRE VGA GÖRÜNTÜ KABLOSU PROJEKSİYON BİLGİSAYAR LAPTOP
+2021-02-14 02:22:51 INFO  GittigidiyorTest:104 - Ürünün Fiyatı : 79,90 TL olarak tutuluyor.
+2021-02-14 02:22:51 INFO  GittigidiyorTest:109 - Ürün sepete eklendi.
+2021-02-14 02:22:52 INFO  GittigidiyorTest:112 - Sepete gidildi.
+2021-02-14 02:22:53 INFO  GittigidiyorTest:116 - Sepetteki Tutar : 79,90 TL
+2021-02-14 02:22:53 INFO  GittigidiyorTest:120 - Ürün fiyatı ve Sepetteki Tutar Karşılaştırılması Başarılı.
+2021-02-14 02:22:53 INFO  GittigidiyorTest:127 - Ürün adeti arttırılarak 2 olarak seçildi
+2021-02-14 02:22:54 INFO  GittigidiyorTest:134 - Ürün Adedinin 2 olduğu kontrol edildi.
+2021-02-14 02:22:54 INFO  GittigidiyorTest:139 - Ürün(ler) sepetten silindi.
+2021-02-14 02:22:54 INFO  GittigidiyorTest:150 - Test Başarıyla sonuçlandı.
+2021-02-14 02:22:54 INFO  GittigidiyorTest:158 - Driver Kapatıldı.
+2021-02-14 02:23:51 INFO  GittigidiyorTest:24 - Test başlatıldı.
+2021-02-14 02:24:09 INFO  GittigidiyorTest:37 - Anasayfaya giriş başarılı
+2021-02-14 02:24:12 INFO  GittigidiyorTest:44 - Login işlemi başarılı
+2021-02-14 02:24:13 INFO  GittigidiyorTest:49 - Arama yerine istenilen kelime girildi
+2021-02-14 02:24:15 INFO  GittigidiyorTest:52 - Arama başarılı
+2021-02-14 02:24:17 INFO  GittigidiyorTest:61 - 2.Sayfanın Açıldığı kontrol edildi.
+2021-02-14 02:24:18 INFO  GittigidiyorTest:78 - Rastgele olarak 39. sıradaki ürün seçildi ve ürün linkine gidildi.
+2021-02-14 02:24:19 INFO  GittigidiyorTest:91 - Ürünün adı : Concord 20 METRE VGA GÖRÜNTÜ KABLOSU PROJEKSİYON BİLGİSAYAR LAPTOP
+2021-02-14 02:24:19 INFO  GittigidiyorTest:104 - Ürünün Fiyatı : 79,90 TL olarak tutuluyor.
+2021-02-14 02:24:19 INFO  GittigidiyorTest:109 - Ürün sepete eklendi.
+2021-02-14 02:24:20 INFO  GittigidiyorTest:112 - Sepete gidildi.
+2021-02-14 02:24:20 INFO  GittigidiyorTest:116 - Sepetteki Tutar : 79,90 TL
+2021-02-14 02:24:20 INFO  GittigidiyorTest:120 - Ürün fiyatı ve Sepetteki Tutar Karşılaştırılması Başarılı.
+2021-02-14 02:24:20 INFO  GittigidiyorTest:127 - Ürün adeti arttırılarak 2 olarak seçildi
+2021-02-14 02:24:21 INFO  GittigidiyorTest:134 - Ürün Adedinin 2 olduğu kontrol edildi.
+2021-02-14 02:24:21 INFO  GittigidiyorTest:139 - Ürün(ler) sepetten silindi.
+2021-02-14 02:24:21 INFO  GittigidiyorTest:150 - Test Başarıyla sonuçlandı.
+2021-02-14 02:24:22 INFO  GittigidiyorTest:158 - Driver Kapatıldı.

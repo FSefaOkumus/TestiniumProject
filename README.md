@@ -18,6 +18,6 @@
 - log4J
 - JUnit
 - Selenium
-  MAVEN Projesi olarak tasarlanmıştır.
+- MAVEN Projesi olarak tasarlanmıştır.
 
 # Sefa Okumuş

@@ -1,5 +1,6 @@
 # TestiniumProject
-
+ @username ve @password tanımlanmıştır.
+ 
 - www.gittigidiyor.com sitesi açılır.
 - Ana sayfanın açıldığı kontrol edilir. Siteye login olunur
 - Login işlemi kontrol edilir.
@@ -14,9 +15,9 @@
 - Ürün sepetten silinerek sepetin boş olduğu kontrol edilir.
 
 # Structure
--log4J
--JUnit
--Selenium
+- log4J
+- JUnit
+- Selenium
 MAVEN Projesi olarak tasarlanmıştır.
 
 # Sefa Okumuş

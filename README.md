@@ -1,5 +1,5 @@
 # gittigidiyor Test Automation
- @username ve @password tanımlanmıştır.
+ @username ve @password TANIMLANMAMIŞTIR.
  
 - www.gittigidiyor.com sitesi açılır.
 - Ana sayfanın açıldığı kontrol edilir. Siteye login olunur

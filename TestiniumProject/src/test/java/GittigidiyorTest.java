@@ -37,8 +37,8 @@ public class GittigidiyorTest {
         logger.info("Anasayfaya giriş başarılı"); //
 
         driver.navigate().to(loginUrl);
-        driver.findElement(By.id("L-UserNameField")).sendKeys("wbtstacc@gmail.com");
-        driver.findElement(By.id("L-PasswordField")).sendKeys("a1234567");
+        driver.findElement(By.id("L-UserNameField")).sendKeys("username");
+        driver.findElement(By.id("L-PasswordField")).sendKeys("pw");
         driver.findElement(By.id("gg-login-enter")).click();
         Assert.assertEquals(driver.getCurrentUrl(),"https://www.gittigidiyor.com/");
         logger.info("Login işlemi başarılı");
